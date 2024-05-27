@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Вариант1\doubleLetter\doubleLetter\bin\Debug\doubleLetter.exe.config
+C:\Users\Пользователь\Desktop\Вариант1\doubleLetter\doubleLetter\bin\Debug\doubleLetter.exe
+C:\Users\Пользователь\Desktop\Вариант1\doubleLetter\doubleLetter\bin\Debug\doubleLetter.pdb
+C:\Users\Пользователь\Desktop\Вариант1\doubleLetter\doubleLetter\obj\Debug\doubleLetter.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Вариант1\doubleLetter\doubleLetter\obj\Debug\MainWindow.g.cs
+C:\Users\Пользователь\Desktop\Вариант1\doubleLetter\doubleLetter\obj\Debug\App.g.cs
+C:\Users\Пользователь\Desktop\Вариант1\doubleLetter\doubleLetter\obj\Debug\doubleLetter_MarkupCompile.cache
+C:\Users\Пользователь\Desktop\Вариант1\doubleLetter\doubleLetter\obj\Debug\doubleLetter_MarkupCompile.lref
+C:\Users\Пользователь\Desktop\Вариант1\doubleLetter\doubleLetter\obj\Debug\MainWindow.baml
+C:\Users\Пользователь\Desktop\Вариант1\doubleLetter\doubleLetter\obj\Debug\doubleLetter.g.resources
+C:\Users\Пользователь\Desktop\Вариант1\doubleLetter\doubleLetter\obj\Debug\doubleLetter.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Вариант1\doubleLetter\doubleLetter\obj\Debug\doubleLetter.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\Вариант1\doubleLetter\doubleLetter\obj\Debug\doubleLetter.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Вариант1\doubleLetter\doubleLetter\obj\Debug\doubleLetter.exe
+C:\Users\Пользователь\Desktop\Вариант1\doubleLetter\doubleLetter\obj\Debug\doubleLetter.pdb
